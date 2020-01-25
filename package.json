@@ -2,7 +2,7 @@
   "name": "node-thermal-printer",
   "version": "4.1.0",
   "description": "Print on Epson and Star thermal printers with NodeJS",
-  "main": "node-thermal-printer.js",
+  "main": "node-thermal-printer.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/Klemen1337/node-thermal-printer"
